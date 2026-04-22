@@ -31,11 +31,12 @@ This allows simulation of annotations (e.g., object position and viewpoint) for 
 
 ## Visuals
 
-### Simulation Environment
-![Unity Simulation](images/unity_simulation.png)
+### Simulation Environment Objects
+![Unity Simulation](BlenderHospitalObjects/OperatingRoomObject1.jpeg)
 
 ### Real-World Context
-![Real World Setup](images/real_world_setup.png)
+![Unity Simulation](BlenderHospitalObjects/SimulationData1.png)
+![Unity Simulation](BlenderHospitalObjects/SimulationData2.png)
 
 ---
 
