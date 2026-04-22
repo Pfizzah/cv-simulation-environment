@@ -29,6 +29,16 @@ This allows simulation of annotations (e.g., object position and viewpoint) for 
 
 ---
 
+## Example Simulation Script
+
+Basic Unity (C#) scripting is used to simulate structured data from the environment.
+
+Example:
+- extracting object position and orientation
+- supporting future annotation and CV pipeline integration
+
+---
+
 ## Visuals
 
 ### Simulation Environment Objects
