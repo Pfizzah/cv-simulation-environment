@@ -32,11 +32,11 @@ This allows simulation of annotations (e.g., object position and viewpoint) for 
 ## Visuals
 
 ### Simulation Environment Objects
-![Unity Simulation](OperatingRoomObject1.jpeg)
+![Unity Simulation](images/OperatingRoomObject1.jpeg)
 
 ### Real-World Context
-![Real World 1](SimulationData1.png)
-![Real World 2](SimulationData2.png)
+![Real World 1](images/SimulationData1.png)
+![Real World 2](images/SimulationData2.png)
 
 ---
 
